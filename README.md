@@ -14,7 +14,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FSizak&title=Visitors&edge_flat=false"/></a>
 </p>
 
-## Overview
+## [+] Overview
 ```
 usage: sizak.py [options]
 
@@ -31,10 +31,17 @@ options:
   -v, --version  Show Version
 ```
 
-## [*] Installation and Usage
+## [+] Installation and Usage
 * `apt update && apt upgrade -y`
 * `apt install python3`
 * `git clone https://github.com/InferiorAK/Sizak`
 * `cd Sizak`
 * `python3 sizak.py --help`
 > Now Enjoy! And don't forget to follow me and Subscribe my Youtube Channel
+> And Don't Steal my Codes!
+
+## [+] Contact :
+[![Github](https://img.shields.io/badge/Github-InferiorAK-orange?style=for-the-badge&logo=github)](https://github.com/InferiorAK)
+[![Facebook](https://img.shields.io/badge/Facebook-InferiorAK-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/InferiorAK)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/InferiorAK)
+[![Twitter](https://img.shields.io/badge/Twitter-InferiorAK-skyblue?style=for-the-badge&logo=twitter)](https://www.twitter.com/InferiorAK)
