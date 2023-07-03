@@ -1,5 +1,5 @@
 # Sizak `Version 1.0`
-<b>This is a file analyzer tool like wc used in Linux. It's based on python for all OS and Kernels</b>
+<b>This is a simple file analyzer tool like wc used in Linux. It's based on python for all OS and Kernels</b>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
