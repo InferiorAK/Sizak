@@ -1,4 +1,6 @@
-# Sizak `Version 1.0`
+# Sizak
+> **Version 1.0**
+> 
 <b>This is a simple file analyzer tool like wc used in Linux. It's based on python for all OS and Kernels</b>
 
 <p align="center">
@@ -11,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python3-orange?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInferiorAK%2FSizak&title=Visitors&edge_flat=false"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=InferiorAK.Sizak" alt="Visitors">
 </p>
 
 ## [+] Overview
